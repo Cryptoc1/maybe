@@ -18,7 +18,7 @@ int main(int argc, char* argv[]) {
     srand(time(NULL));
     int i = 0;
     int r;
-    char* maybe = "n";
+    char* maybe;
     if (argc > 1) {
         maybe = argv[1];
     }

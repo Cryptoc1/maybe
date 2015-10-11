@@ -2,7 +2,7 @@
 Like `yes`, but `no`.
 
 ### Usage
-`no [expletive]`
+`$ no [expletive]`
 
 ### Compile/Install
 `gcc -o no main.o; cp no /usr/local/bin`

@@ -1,13 +1,12 @@
-# no
-Like `yes`, but `no`.
+# maybe
+Like `yes` and `no`, but `maybe`.
 
 ### Usage
-`$ no [expletive]`
+`$ maybe [expletive]`
 
 ### Compile/Install
-`gcc -o no main.o; cp no /usr/local/bin`
+`gcc -o maybe main.o; cp maybe /usr/local/bin`
 
 <hr>
 
-I'm a stupid little shit for actually putting time into this.
-You're welcome.
+...why

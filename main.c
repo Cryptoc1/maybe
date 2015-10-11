@@ -3,11 +3,11 @@
 
 int main(int argc, char* argv[]) {
     int i = 0;
-    char* no = "n";
+    char* maybe = "m";
     if (argc > 1) {
-        no = argv[1];
+        maybe = argv[1];
     }
     while (i == 0) {
-        printf("%s\n", no);
+        printf("%s\n", maybe);
     }
 }

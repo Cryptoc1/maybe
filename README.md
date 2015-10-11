@@ -7,6 +7,7 @@ Like `yes`, but `no`.
 ### Compile/Install
 `gcc -o no main.o; cp no /usr/local/bin`
 
-###
+<hr>
+
 I'm a stupid little shit for actually putting time into this.
 You're welcome.
